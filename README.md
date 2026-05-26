@@ -6,7 +6,7 @@ Web Scraping is a technique to extract large amount of data from a website inste
 I have used bookstoscrape website and extracted its data for my project.
 
 # What it Does
--collects and parse required HTML. 
+-collects and parse required HTML. <br>
 -scrapes data from website.
 -extract useful information.
 -saves the data as csv file.
